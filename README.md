@@ -2,8 +2,9 @@
 <h3 align="center">A developer</h3>
 
 ![Logo](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSglqtJ53B33BODHlS59YPw4ngU3LakCTCsPw&s" alt="Logo" width="80%" />
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSglqtJ53B33BODHlS59YPw4ngU3LakCTCsPw&s" alt="Logo" width="75%" />
+</p>
 
 ![Logo](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
