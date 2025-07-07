@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm pawn</h1>
+<h1 align="center">Hi <img src="https://camo.githubusercontent.com/6f9296a4c8b352a3a335f257ccf592c010c5f578a17a2f8d7ef407efe5dbe6a9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" alt="Logo" width="10%" >, I'm pawn</h1>
 <h3 align="center">A developer</h3>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSglqtJ53B33BODHlS59YPw4ngU3LakCTCsPw&s" alt="Logo" width="100%" />
